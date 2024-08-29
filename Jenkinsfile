@@ -71,6 +71,6 @@ pipeline {
                 sh "sudo cp -r dist/. ${DEPLOY_HTML}/"
             }
         }
+        */
     }
 }
-*/
