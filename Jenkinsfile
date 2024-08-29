@@ -40,7 +40,7 @@ pipeline {
                 sh 'npm run build'
             }
         }
-
+/*
         stage('File Delivery') {
             steps {
                 script {
@@ -73,3 +73,4 @@ pipeline {
         }
     }
 }
+*/
